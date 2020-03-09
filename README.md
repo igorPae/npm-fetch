@@ -1,4 +1,4 @@
-# vue-repo-tree-view
+# Vue + Node to search Git repositories.
 
 ## Project setup
 ```

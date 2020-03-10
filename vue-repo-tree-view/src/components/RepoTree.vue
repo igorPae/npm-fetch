@@ -21,7 +21,7 @@ export default {
   props: {
     initKey: {
       type: String,
-      required: true,
+      required: false,
       default: ""
     }
   },

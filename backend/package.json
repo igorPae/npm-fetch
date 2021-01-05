@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/sdbedi/Simple-Express-Starter#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "cache-manager": "^3.1.0",
     "cors": "^2.8.5",
     "express": "^4.16.2"
